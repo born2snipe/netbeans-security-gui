@@ -1,0 +1,11 @@
+= Maven Repo
+
+    http://b2s-repo.googlecode.com/svn/trunk/mvn-repo
+
+= What it does?
+
+When this module is added to your Netbeans application the user will be prompted to login at application startup.
+
+If the user has a valid login the application will continue to startup.
+
+If the user cancels the application will shutdown.
