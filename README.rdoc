@@ -11,5 +11,5 @@ If the user has a valid login the application will continue to startup.
 If the user cancels the application will shutdown.
 
 = How to use it?
-# add this artifact to your pom file.
-# implement a LoginService as a ProvidedService
+- add this artifact to your pom file.
+- implement a LoginService as a ProvidedService
