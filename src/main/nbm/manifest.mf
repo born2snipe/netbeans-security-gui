@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: netbeans/security/login/gui/Bundle.properties
+OpenIDE-Module-Install: netbeans/security/login/gui/Installer.class
+AutoUpdate-Essential-Module: true
